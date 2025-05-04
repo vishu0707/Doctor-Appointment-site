@@ -3,16 +3,16 @@ import styles from "../styles/MyProfile.module.css";
 
 export const MyProfile = () => {
   const [userData, setUserData] = useState({
-    name: "Sakshi Marathe",
+    name: "Sanika Satpute",
     image: "/src/assets/profile.jpg",
-    emali: "yuvraj1234@gmail.com",
+    emali: "Sanika1234@gmail.com",
     mobile: "4545-4565-7898",
     address: {
       line1: "5th floor YC appartment",
-      line2: "Viman Nagar Pune, Maharashtra",
+      line2: "Navi Sangvi Pune, Maharashtra",
     },
-    gender: "Male",
-    dob: "2002-07-21",
+    gender: "Female",
+    dob: "2003-03-05",
   });
 
   const [isEdit, setIsEdit] = useState(false);

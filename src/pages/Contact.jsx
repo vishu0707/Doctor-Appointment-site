@@ -19,11 +19,11 @@ export const Contact = () => {
             <span>Our OFFICE</span>
             <p>
               3rd floor index techpark <br />
-              Hadpsar, Pune, Maharashtra
+              Sangvi, Pune, Maharashtra
             </p>
             <p>
               Tel: 415 555 0132 <br />
-              Email: yuvraj12345@gmail.com
+              Email: Sanika123@gmail.com
             </p>
             <span>Careers at PRESCRIPTO</span>
             <p>Learn more about our teams and job openings.</p>
